@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /var/www/html/index.html 
+rm -rf /var/www/html/index.html || true
